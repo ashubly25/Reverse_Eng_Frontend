@@ -3,7 +3,6 @@ _This project aims to provide a step by step implementation of a "reverse engine
 
 
 Preview
-![Preview]
-(https://github.com/ashubly25/Reverse_Eng_Frontend/blob/master/Screenshot%20from%202020-09-24%2019-10-22.png)
-(https://github.com/ashubly25/Reverse_Eng_Frontend/blob/master/Screenshot%20from%202020-09-24%2019-10-29.png)
+![Preview](https://github.com/ashubly25/Reverse_Eng_Frontend/blob/master/Screenshot%20from%202020-09-24%2019-10-22.png)
+![Preview](https://github.com/ashubly25/Reverse_Eng_Frontend/blob/master/Screenshot%20from%202020-09-24%2019-10-29.png)
 
