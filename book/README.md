@@ -22,6 +22,5 @@ This exercice will make you create this little app. Click on the label to see th
 
 It's a really simple app, but check what I've built with the approach presented in this tutorial:
 
-![Pokeworld!](./)
 
-It's available here: []
+
